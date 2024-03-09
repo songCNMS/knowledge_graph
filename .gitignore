@@ -2,4 +2,7 @@
 */.DS_Store
 .DS_Store
 .ipynb_checkpoints/
-# old_notebooks
+old_notebooks
+data
+gpt_api_config.py
+__pycache__
